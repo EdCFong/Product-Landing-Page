@@ -1,0 +1,47 @@
+body
+{
+    background: rgb(192, 207, 114)  ;
+    text-align: center;
+}
+header
+{
+    text-align: right;
+    background: rgb(120, 131, 63)  ;
+}
+li
+{
+    display: inline;
+    margin: 0px 20px 0px 20px;
+}
+.a_feature
+{
+    display: flex;
+}
+.an_icon
+{
+    display: flex;
+    margin-left: 40%;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    width: 50px;
+   
+}
+.text_features
+{
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+.nav-link
+{
+    color: #000;
+    text-decoration: none;
+}
+#form
+{
+    background: rgb(226, 91, 12);
+    margin: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
